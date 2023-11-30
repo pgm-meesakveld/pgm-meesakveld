@@ -10,6 +10,7 @@ I'm a 21-year-old programming student at Artevelde University of Applied Science
 <a href="https://www.linkedin.com/in/meesakveld/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mees Akveld | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/meesakveld"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Mees Akveld | Instagram" width="21px"/></a>
 <br>
+- 🙋‍♂️ <a href="https://github.com/meesakveld">My personal Github account</a>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 <br>
