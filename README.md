@@ -15,11 +15,6 @@ I'm a 21-year-old programming student at Artevelde University of Applied Science
 
 <br>
 
-## 🔭 I'm currently working on
-- A recipe app in Swift
-
-<br>
-
 ## 🌱 I'm currently learning
 - HTML5
 - CSS
