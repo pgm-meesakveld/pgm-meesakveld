@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://www.meesakveld.be/" target="_blank" rel="noreferr
 </h3>
 
 <p align="center">
-I'm a 21-year-old programming student at Artevelde University of Applied Sciences in Gent and my world revolves around designing and creating digital projects. 
+I'm a 21-year-old programming student at Artevelde University of Applied Sciences. I enjoy designing, creating and developing digital projects.
 </p> 
 
 ### 🤝 Connect with me:
