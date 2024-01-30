@@ -19,7 +19,7 @@ I'm a programming student at Artevelde University of Applied Sciences. I enjoy d
 - JavaScript
 - Node.js
 - Swift
-- CMS Systems
+- Sanity Headless CMS
 
 <br>
 
