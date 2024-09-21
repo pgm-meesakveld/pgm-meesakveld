@@ -10,23 +10,22 @@ I'm a programming student at Artevelde University of Applied Sciences. I enjoy d
 <a href="https://www.linkedin.com/in/meesakveld/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mees Akveld | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/meesakveld"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Mees Akveld | Instagram" width="21px"/></a>
 <br>
-- 🙋‍♂️ <a href="https://github.com/meesakveld">My personal Github account</a>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 🙋‍♂️ <a href="https://github.com/pgm-meesakveld">My Github school account</a>
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 <br>
 
 ## 🌱 I'm currently learning
-- JavaScript
-- Node.js
+- PHP
+- Next.js
 - Swift
-- Sanity Headless CMS
 
 <br>
 
 ## 💼 Technical Skills
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
