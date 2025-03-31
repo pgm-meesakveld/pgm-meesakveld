@@ -5,7 +5,7 @@ I'm a programming student at Artevelde University of Applied Sciences. I enjoy d
 <br>
 
 ### 🤝 Connect with me:
-If you have any questions/feedback, please do not hesitate to reach out to me!
+Feel free to reach me if you have a project, idea, suggestion or just to chat.
 
 <div style="display: flex; gap: 0.5rem;">
   <a href="https://www.linkedin.com/in/meesakveld/" target="_blank">
